@@ -1,10 +1,6 @@
-# Face-Recognition-Using-OpenCV-and-KNNClassifier
+# RealTime-Face-Recognition-Using-OpenCV-and-KNNClassifier
 
 Face recognition is a crucial security application. Through this project,  a very basic form of face recognition has been implemented using the Haar Cascades Classifier, openCV & K-Nearest Neighbors Algorithm.
-
-
-# Face-Recognition 
-Face Recognition using KNN algorithm and open cv for python.
 
 ## Technology Stack
 - ##### Python - The whole code has been written in Python.
