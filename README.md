@@ -2,7 +2,7 @@
 
 Face recognition is a crucial security application. Through this project,  a very basic form of face recognition has been implemented using the Haar Cascades Classifier, openCV & K-Nearest Neighbors Algorithm.
 
-## Technology Stack
+## Technology Used :
 - ##### Python - The whole code has been written in Python.
 - ##### cv2 -  cv2 is the OpenCV module and is used here for reading & writing images & also to input a video stream.
 - ##### Algorithm - K-Nearest Neighbor
@@ -14,7 +14,7 @@ Face recognition is a crucial security application. Through this project,  a ver
     2. Create some data for classification
     3. Write the kNN workflow
     4. Finally, run knn on the data and observe results
-## Dependencies
+## Dependencies :
     - Python 3 and OpenCv
     - Numpy
 ## How it works!
